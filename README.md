@@ -11,9 +11,15 @@ should be a text file.
 
 # Input Format: 
 The input should be given in a text file where each method call should be written in a new line. Spaces before the actual data in each line are omitted by the program.
+
 Example for input:
+
 Initialize()
+
 Insert(12)
+
 Delete(12)
+
 Search(13)
+
 Search(13,15)
