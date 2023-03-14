@@ -23,3 +23,6 @@ Delete(12)
 Search(13)
 
 Search(13,15)
+
+# Output Format: 
+The output will be printed on to a text file named output_file.txt. Initialize, Insert and Delete will not print anything in the output file. Search(int a) prints the "a" in the new line. If "a" is not found in the tree then NULL will be printed. Search(int a, int b) prints all the nodes in the avl tree within the range a, b inclusive. These values will be comma separated. If nothing is found, NULL will be printed. For each execution output file will be overwritten.
